@@ -121,8 +121,8 @@ const size_t   P2P_DEFAULT_HANDSHAKE_INVOKE_TIMEOUT          = 5000;          //
 const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "8f80f9a5a434a9f1510d13336228debfee9c918ce505efe225d8c94d045fa115";
 
 const std::initializer_list<const char*> SEED_NODES = {
-  "64.34.219.46:42080",
-  "66.172.27.42:42080",
+  "54.36.44.149:12122",
+  "54.36.44.149:12123",
   "66.172.27.6:42080",
   "76.74.170.207:42080",
   "76.74.219.163:42080",
